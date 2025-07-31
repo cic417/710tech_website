@@ -47,7 +47,7 @@ function Footer() {
               <p className="footer-title">Contact</p>
               <ul>
                 <li>
-                  <Link to="#" >info@710tech.com</Link>
+                  <Link to="#" >info@tech710.com</Link>
                 </li>
                 <li>
                   <Link to="#" >7933 Preston Rd, Plano, TX 75024</Link>
